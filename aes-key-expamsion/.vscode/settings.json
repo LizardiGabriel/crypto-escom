@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "list.h": "c",
+        "string.h": "c",
+        "evp.h": "c",
+        "bio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
