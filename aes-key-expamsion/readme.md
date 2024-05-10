@@ -2,12 +2,17 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [run](#run)
 - [Usage](#usage)
 
-## Installation
+## run
 
-To install and set up the project, follow these instructions:
+compilar keygenerator.c:
+'gcc -o keyGenerator keyGenerator.c -I/opt/homebrew/include -L/opt/homebrew/lib -lssl -lcrypto'
+
+compilar main:
+'gcc -o prueba main.c'
+
 
 ## Usage
 
